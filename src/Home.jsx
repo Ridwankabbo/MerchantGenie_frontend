@@ -432,7 +432,7 @@ const features = [
 // =====================
 function Features() {
   return (
-    <section className="w-full bg-surface-container-low py-space-xl lg:py-24 px-margin">
+    <section className="w-full bg-surface-container-low py-space-xl lg:py-24 px-margin" id="features">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-space-xl">
           <div>
